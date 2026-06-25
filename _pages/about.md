@@ -1,11 +1,20 @@
 ---
 permalink: /
-title: "Ingeniero agrónomo"
+title: "Sobre mí"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Biografía
+
+¡Hola! Bienvenido a mi sitio web profesional. Soy Ingeniero Agrónomo graduado de la Universidad de Costa Rica (UCR). Mi enfoque profesional y académico se centra en la intersección de la agronomía, la microbiología agrícola, la bioinformática y la ciencia de datos aplicadas a la sostenibilidad en el campo.
+
+Soy una persona proactiva, con características de liderazgo, adaptable a situaciones cambiantes y con capacidades para trabajar en diversas áreas interdisciplinarias. Me apasiona investigar cómo las comunidades microbianas del suelo responden a los manejos agrícolas y cómo podemos utilizar herramientas avanzadas de computación y análisis de datos para optimizar la salud del suelo, implementar agricultura de precisión y mejorar la productividad de los cultivos.
+
+---
+
 # Intereses de Investigación
 
 *   **Microbiología Agrícola y Salud del Suelo:** Estudio de las interacciones planta-microorganismo y la dinámica de las comunidades bacterianas bajo diferentes prácticas de manejo y coberturas agrícolas.
@@ -14,15 +23,17 @@ redirect_from:
 
 ---
 
-
-
-======
 # Educación
 
 *   **Licenciatura en Ingeniería Agronómica**
-    *   Universidad de Costa Rica (UCR)
+    *   Universidad de Costa Rica (UCR), 2025.
     *   Enfoque en investigación, microbioma y análisis de datos fitosanitarios/agrícolas.
-======
+*   **Bachillerato Nacional e Internacional (IB)**
+    *   Liceo Académico de Cariari (2010-2015).
+    *   Participación en el programa de Bachillerato Internacional, Concurso en la Segunda Olimpiada Costarricense de Filosofía (UCR) y visita de campo en el Programa EPI Costa Rica 2015.
+
+---
+
 # Experiencia Profesional y Asistencias
 
 *   **Asistente en Centro de Investigación en Protección de Cultivos (CIPROC)**
@@ -40,6 +51,7 @@ redirect_from:
 *   **Asistente en Laboratorio de Tecnología Poscosecha**
     *   *Enero 2021 – Julio 2022*
     *   Asistente general en laboratorio de calidad, proyectos de tesis y ensayos analíticos de laboratorio.
+
 ---
 
 # Certificaciones y Cursos Especializados
@@ -49,7 +61,7 @@ redirect_from:
 *   **Curso Avanzado para la Prevención y Manejo de Brotes Epidémicos de la Marchitez por Fusarium R4T en Musáceas (2025)**
     *   Capacitación especializada sobre mecanismos de diseminación de TR4, prevención de ataques, gestión institucional de emergencias fitosanitarias e implementación de herramientas tecnológicas de vanguardia.
 *   **Certificado de Taller: Introducción al Análisis Transcriptómico**
-    *   Capacitación en análisis de expresión genética y herramientas bioinformáticas asociadas.
+    *   Capacitación en análisis de expression genética y herramientas bioinformáticas asociadas.
 
 ---
 
