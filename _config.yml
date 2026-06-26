@@ -22,64 +22,65 @@ repository               : "torres2089/torres2089.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+author:
+  # Información Biográfica
+  avatar           : "bio-photo.jpg" # Nombre que le daremos a tu foto de perfil más adelante
+  name             : "Óscar Fabricio Torres Pérez"
+  pronouns         : 
+  bio              : "Ingeniero Agrónomo graduado de la Universidad de Costa Rica (UCR). Especialista en Microbiología Agrícola, Bioinformática y Agricultura de Precisión."
+  location         : "Costa Rica"
+  employer         : "Universidad de Costa Rica"
+  uri              : 
+  email            : "oscartp353@gmail.com" 
 
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  # Páginas Académicas (Deja vacío lo que no uses para que no aparezca)
+  academia         : 
+  arxiv            : 
+  googlescholar    : 
+  inspire-hep      : 
+  impactstory      : 
+  orcid            : 
+  semantic         : 
+  ssrn             : 
+  pubmed           : 
+  researchgate     : 
+  scopus           : 
+  zotero           : 
 
+  # Repositorios y desarrollo
+  bitbucket        : 
+  codepen          : 
+  dribbble         : 
+  github           : "torres2089"
+  kaggle           : 
+  stackoverflow    : 
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
+  # Redes Sociales profesionales
+  artstation       : 
+  bluesky          : 
+  facebook         : 
+  flickr           : 
+  foursquare       : 
+  goodreads        : 
+  google_plus      : 
+  keybase          : 
+  instagram        : 
+  lastfm           : 
+  linkedin         : "oscar-fabricio-torres-pérez-a47a93145"
+  mastodon         : 
+  medium           : 
+  pinterest        : 
+  soundcloud       : 
+  steam            : 
+  telegram         : 
+  tumblr           : 
+  twitter          : 
+  vine             : 
+  weibo            : 
+  wikipedia        : 
+  xing             : 
+  youtube          : 
+  zhihu            :
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
