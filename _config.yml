@@ -23,7 +23,7 @@ repository               : "torres2089/torres2089.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Información Biográfica
-  avatar           : "/images/bio-photo.jpg" # Nombre que le daremos a tu foto de perfil más adelante
+  avatar           : "https://torres2089.github.io/images/bio-photo.jpg" # Nombre que le daremos a tu foto de perfil más adelante
   name             : "Óscar Fabricio Torres Pérez"
   pronouns         : 
   bio              : "Ingeniero Agrónomo graduado de la Universidad de Costa Rica (UCR). Especialista en Microbiología Agrícola, Bioinformática y Agricultura de Precisión."
