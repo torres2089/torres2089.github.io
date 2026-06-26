@@ -22,7 +22,6 @@ repository               : "torres2089/torres2089.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-author:
   # Información Biográfica
   avatar           : "bio-photo.jpg" # Nombre que le daremos a tu foto de perfil más adelante
   name             : "Óscar Fabricio Torres Pérez"
