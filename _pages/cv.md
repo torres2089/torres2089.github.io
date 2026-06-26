@@ -1,64 +1,46 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Currículum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+##  Perfil Profesional
+Ingeniero Agrónomo graduado de la Universidad de Costa Rica. Mi perfil integra la gestión técnica de sistemas de producción, la protección fitosanitaria de cultivos y la aplicación de herramientas moleculares y bioinformáticas para el diagnóstico y análisis de la salud del suelo.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Educación
+* **Licenciatura en Ingeniería Agronómica** | Universidad de Costa Rica (UCR)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Experiencia Laboral e Investigación
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Asistente de Investigación** | Centro de Investigación en Protección de Cultivos (CIPROC)
+  * *Periodo:* Septiembre 2025 - Diciembre 2025
+  * *Labores:* Extracción a gran escala de ADN bacteriano en parcelas agroecológicas y evaluación técnica de salud de suelos.
+
+* **Asistente de Laboratorio** | Centro de Investigación en Biología Celular y Molecular (CIBCM)
+  * *Periodo:* Marzo 2023 - Julio 2024 / Enero 2025 - Julio 2025
+  * *Labores:* Soporte técnico en protocolos de biología molecular y flujos de trabajo analíticos de laboratorio.
+
+* **Pasantía de Investigación** | Corporación Bananera Nacional (CORBANA)
+  * *Periodo:* Agosto 2024 - Noviembre 2024
+  * *Labores:* Apoyo directo en programas de mejoramiento genético, monitoreo fitosanitario y evaluación agronómica en musáceas.
+
+---
+
+## Acción Social y Extensión
+* **Asistente de Proyecto** | Trabajo Comunal Universitario (TCU 775, UCR)
+  * *Periodo:* Enero 2025 - Diciembre 2025
+  * *Labores:* Soporte técnico, vinculación comunitaria y transferencia de conocimiento en el sector agropecuario.
+
+---
+
+##  Competencias Técnicas
+* **Manejo de Cultivos y Campo:** Logística agrícola, diseño técnico de infraestructura de drenajes y gestión de musáceas.
+* **Protección de Cultivos:** Diagnóstico fitosanitario, muestreo de suelos y uso de cultivos de cobertura (como *Crotalaria*) para el manejo de nematodos y patógenos.
+* **Bioinformática y Datos:** Análisis de microbiomas mediante pipelines bioinformáticos (QIIME 2, DADA2), entornos Singularity en clústeres de alto rendimiento y herramientas de diseño científico (BioRender).
