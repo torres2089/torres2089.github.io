@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - avatar: "https://torres2089.github.io/images/bio-photo.jpg"
 ---
 
 ##  Perfil Profesional
