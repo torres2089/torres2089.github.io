@@ -3,6 +3,7 @@ layout: single
 title: "Experiencia Profesional"
 permalink: /experiencia/
 author_profile: true
+avatar: "https://torres2089.github.io/images/bio-photo.jpg"
 ---
 
 Resumen ejecutivo de trayectoria técnica enfocada en la gestión de sistemas productivos, fitosanidad y análisis de datos biológicos:
