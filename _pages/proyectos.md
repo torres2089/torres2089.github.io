@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Proyectos"
-permalink: /proyectos/
+permalink: /proyectos-listado/
 author_profile: true
 redirect_from:
   - /resume
