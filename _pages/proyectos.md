@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Proyectos y Consultorías"
-permalink: /proyectos/
+title: "Proyectos"
+permalink: /proyectos
 author_profile: true
 ---
 
