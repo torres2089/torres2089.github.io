@@ -1,8 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Proyectos"
 permalink: /proyectos/
 author_profile: true
+redirect_from:
+  - /resume
+  - avatar: "https://torres2089.github.io/images/bio-photo.jpg"
 ---
 
 Detalles técnicos sobre desarrollos de infraestructura agrícola, análisis de datos biológicos y bioinformática:
