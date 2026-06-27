@@ -12,13 +12,11 @@ main:
     url: /experiencia/
 
   - title: "Certificados"
-    url: /certificados/    
+    url: /certificados/
 
   - title: "Proyectos"
-    url: /proyectos/    
-    
-    
+    url: /proyectos/
+
   - title: "CV"
     url: /cv/
-    
  
