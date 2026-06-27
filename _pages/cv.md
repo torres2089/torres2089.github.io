@@ -5,8 +5,13 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-  - avatar: "https://torres2089.github.io/images/bio-photo.jpg"
 ---
+
+<div style="width: 100%; text-align: right; margin-bottom: 20px;">
+    <a href="{{ '/files/resume.pdf' | relative_url }}" class="btn btn--info" style="font-weight: bold; border-radius: 5px;" download>
+         Descargar CV en PDF
+    </a>
+</div>
 
 ##  Perfil Profesional
 Ingeniero Agrónomo graduado de la Universidad de Costa Rica. Mi perfil integra la gestión técnica de sistemas de producción, la protección fitosanitaria de cultivos y la aplicación de herramientas moleculares y bioinformáticas para el diagnóstico y análisis de la salud del suelo.
@@ -45,3 +50,15 @@ Ingeniero Agrónomo graduado de la Universidad de Costa Rica. Mi perfil integra 
 * **Manejo de Cultivos y Campo:** Logística agrícola, diseño técnico de infraestructura de drenajes y gestión de musáceas.
 * **Protección de Cultivos:** Diagnóstico fitosanitario, muestreo de suelos y uso de cultivos de cobertura (como *Crotalaria*) para el manejo de nematodos y patógenos.
 * **Bioinformática y Datos:** Análisis de microbiomas mediante pipelines bioinformáticos (QIIME 2, DADA2), entornos Singularity en clústeres de alto rendimiento y herramientas de diseño científico (BioRender).
+
+---
+
+## Versión Interactiva del Documento
+
+<div style="width: 100%; height: 85vh; margin-top: 15px; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
+    <iframe src="{{ '/files/resume.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
+        <p>Tu navegador no soporta la visualización de PDFs en línea. 
+           <a href="{{ '/files/resume.pdf' | relative_url }}">Haz clic aquí para descargarlo directamente.</a>
+        </p>
+    </iframe>
+</div>
