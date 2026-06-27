@@ -12,6 +12,8 @@ Educación continua, certificaciones profesionales y capacitación complementari
 * **[Capacitación en Introducción a Python](/assets/intropython.pdf)**
 * **[Formación / Curso FAO](/assets/fao.pdf)**
 * **[Certificado Prevención y manejo Fusarium](/assets/banano.pdf)**
+
+
 *(Este apartado está listo para que podás ir listando tus nuevas credenciales o asistencia a simposios en el futuro agregando una nueva línea con un asterisco)*
 
 
