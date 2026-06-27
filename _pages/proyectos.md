@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Proyectos"
+title: "Proyectos y Consultorías"
 permalink: /proyectos/
 author_profile: true
 ---
