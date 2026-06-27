@@ -14,9 +14,8 @@ main:
   - title: "Certificados"
     url: /certificados/
 
-    - title: "Proyectos"
+  - title: "Proyectos"
     url: /proyectos/
 
   - title: "CV"
     url: /cv/
- 
