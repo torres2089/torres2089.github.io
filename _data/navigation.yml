@@ -10,12 +10,9 @@
 main:
   - title: "Experiencia"
     url: /experiencia/
-
   - title: "Certificados"
     url: /certificados/
-
   - title: "Proyectos"
     url: /proyectos/
-
   - title: "CV"
     url: /cv/
