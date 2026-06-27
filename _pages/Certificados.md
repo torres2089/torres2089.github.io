@@ -11,7 +11,7 @@ Educación continua, certificaciones profesionales y capacitación complementari
 * **[Workshop en Tecnologías de Agricultura de Precisión](/assets/taller_precision.pdf)**
 * **[Capacitación en Introducción a Python](/assets/intropython.pdf)**
 * **[Formación / Curso FAO](/assets/fao.pdf)**
-* **[Certificado / Pasantía del Sector Bananero](/assets/banano.pdf)**
+* **[Certificado Prevención y manejo Fusarium](/assets/banano.pdf)**
 *(Este apartado está listo para que podás ir listando tus nuevas credenciales o asistencia a simposios en el futuro agregando una nueva línea con un asterisco)*
 
 
