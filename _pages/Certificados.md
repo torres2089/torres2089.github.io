@@ -13,4 +13,3 @@ Educación continua, certificaciones profesionales y capacitación complementari
 * **[Formación / Curso FAO](/assets/fao.pdf)**
 * **[Certificado Prevención y manejo Fusarium](/assets/banano.pdf)**
 
-Este apartado está listo para que podás ir listando tus nuevas credenciales o asistencia a simposios en el futuro agregando una nueva línea con un asterisco.
