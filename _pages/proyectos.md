@@ -15,7 +15,7 @@ A continuación, se presentan los principales proyectos de investigación aplica
 ### 2. Control Microbiológico y Ensayos de Fitopatología Aplicada
 *   **Descripción:** Diseño y ejecución de protocolos experimentales bajo condiciones controladas e invernadero para el estudio de interacciones planta-patógeno y microorganismos del suelo.
 *   **Competencias:** Aislamiento y refrescamiento bacteriano, técnicas de rayado en placas, preparación y control de calidad microbiológica de medios de cultivo especializados, y extracción a gran escala de ácidos nucleicos (ADN vegetal y bacteriano).
-*   **Lugar:** Centro de Investigación en Biología Celular y Molecular (CIBCM-UCR) y CIPROC-UCR.
+*   **Lugar:** Centro de Investigación en Biología Celular y Molecular (CIBCM-UCR) y Centro de Investigación en Protección de Cultivos (CIPROC-UCR).
 
 ### 3. Análisis de Datos Biológicos y Flujos Bioinformáticos (R studio & clúster HPC (UCR) )
 *   **Descripción:** Procesamiento estadístico y bioinformático de datos experimentales complejos orientados a la ecología microbiana y salud edáfica en sistemas agrícolas.
