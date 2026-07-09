@@ -42,7 +42,7 @@ Ingeniero Agrónomo graduado de la Universidad de Costa Rica. Mi perfil integra 
 ## Acción Social y Extensión
 * **Asistente de Proyecto** | Trabajo Comunal Universitario (TCU 775, UCR)
   * *Periodo:* Enero 2025 - Diciembre 2025
-    * *Labores:*  Acompañamiento de estudiantes en soporte técnico, vinculación comunitaria y transferencia de conocimiento en el sector agropecuario. Mi enfoque se centró en el análisis de rendimiento del TCU, la divulgación y la gestión de labores administrativas.
+  * *Labores:* Acompañamiento de estudiantes en soporte técnico, vinculación comunitaria y transferencia de conocimiento en el sector agropecuario. Mi enfoque se centró en el análisis de rendimiento del TCU, la divulgación y la gestión de labores administrativas.
 ---
 
 ##  Competencias Técnicas
