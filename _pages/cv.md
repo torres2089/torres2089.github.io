@@ -19,7 +19,7 @@ Ingeniero Agrónomo graduado de la Universidad de Costa Rica. Mi perfil integra 
 ---
 
 ## Educación
-* **Licenciatura en Ingeniería Agronómica** | Universidad de Costa Rica (UCR)
+* **En curso Licenciatura en Ingeniería Agronómica** | Universidad de Costa Rica (UCR)
 
 ---
 ## Experiencia Laboral e Investigación
