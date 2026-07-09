@@ -14,7 +14,6 @@ Resumen ejecutivo de trayectoria técnica enfocada en la gestión de sistemas pr
 
 * **Corporación Bananera Nacional (CORBANA)** | *Pasantía de Investigación*
   * Evaluación de descriptores agronómicos y apoyo en programas de mejoramiento genético de musáceas.
-  * Monitoreo fitosanitario de enfermedades y soporte logístico en el desarrollo del cultivo en campo.
 * **Trabajo Comunal Universitario (TCU 775, UCR)** | *Asistente de Extensión*
   * Transferencia tecnológica y soporte técnico directo a comunidades y productores agrícolas locales.
 
@@ -31,7 +30,6 @@ Resumen ejecutivo de trayectoria técnica enfocada en la gestión de sistemas pr
 ---
 
 ##  Aptitudes Clave de Lectura Rápida
-* **Gestión Agrícola:** Diseño de infraestructura hídrica/drenajes y supervisión de labores de campo.
 * **Tecnología y Datos:** Bioinformática (QIIME 2, DADA2), entornos Singularity y diseño científico (BioRender).
 
 ---
