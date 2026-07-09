@@ -5,7 +5,7 @@ permalink: /experiencia/
 author_profile: true
 avatar: "https://torres2089.github.io/images/bio-photo.jpg"
 ---
-Resumen ejecutivo de trayectoria técnica enfocada en calidad poscosecha, gestión de laboratorios, fitosanidad y análisis de datos:
+Resumen ejecutivo de trayectoria técnica enfocada en calidad poscosecha, trabajo en laboratorios, fitosanidad y análisis de datos:
 
 ---
 
