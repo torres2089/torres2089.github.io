@@ -57,7 +57,7 @@ Ingeniero Agrónomo graduado de la Universidad de Costa Rica. Mi perfil integra 
 <div style="width: 100%; height: 85vh; margin-top: 15px; border: 1px solid #ddd; border-radius: 4px; overflow: hidden;">
     <iframe src="{{ '/files/CV_Oscar_Torres.pdf' | relative_url }}" width="100%" height="100%" style="border: none;">
         <p>Tu navegador no soporta la visualización de PDFs en línea. 
-           <a href="{{ '/files/resume.pdf' | relative_url }}">Haz clic aquí para descargarlo directamente.</a>
+           <a href="{{ '/files/CV_Oscar_Torres.pdf' | relative_url }}">Haz clic aquí para descargarlo directamente.</a>
         </p>
     </iframe>
 </div>
