@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="width: 100%; text-align: right; margin-bottom: 20px;">
-    <a href="{{ '/files/resume.pdf' | relative_url }}" class="btn btn--info" style="font-weight: bold; border-radius: 5px;" download>
+    <a href="{{ '/files/CV_Oscar_Torres.pdf' | relative_url }}" class="btn btn--info" style="font-weight: bold; border-radius: 5px;" download>
          Descargar CV en PDF
     </a>
 </div>
