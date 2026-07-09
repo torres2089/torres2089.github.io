@@ -38,4 +38,4 @@ Resumen ejecutivo de trayectoria técnica enfocada en calidad poscosecha, gesti�
 * **Cuento con experiencia en uso de herramientas como R studio y análisis bionformáticos**.
 ---
 
-*Nota: Para ver el desglose completo de funciones, fechas exactas y supervisores, podés dirigirte a la pestaña [CV](/cv/) en el menú superior.*
+*Nota: Para ver el desglose completo de funciones, fechas exactas, podés dirigirte a la pestaña [CV](/cv/) en el menú superior.*
