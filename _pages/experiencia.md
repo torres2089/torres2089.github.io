@@ -5,32 +5,37 @@ permalink: /experiencia/
 author_profile: true
 avatar: "https://torres2089.github.io/images/bio-photo.jpg"
 ---
-
-Resumen ejecutivo de trayectoria técnica enfocada en la gestión de sistemas productivos, fitosanidad y análisis de datos biológicos:
+Resumen ejecutivo de trayectoria técnica enfocada en calidad poscosecha, gestión de laboratorios, fitosanidad y análisis de datos:
 
 ---
 
-##  Producción, Campo y Extensión
+## Calidad Poscosecha y Operaciones de Campo
 
+* **Laboratorio de Tecnología Poscosecha (UCR)** | *Asistente General en Calidad*
+  * Evaluación de parámetros poscosecha, atributos de calidad y recolección de datos experimentales en frutas tropicales de exportación (banano y pitahaya).
 * **Corporación Bananera Nacional (CORBANA)** | *Pasantía de Investigación*
-  * Evaluación de descriptores agronómicos y apoyo en programas de mejoramiento genético de musáceas.
+  * evaluación de descriptores agronómicos orientados al mejoramiento genético de musáceas.
 * **Trabajo Comunal Universitario (TCU 775, UCR)** | *Asistente de Extensión*
-  * Transferencia tecnológica y soporte técnico directo a comunidades y productores agrícolas locales.
+  * Análisis técnico de rendimientos de proyectos, desarrollo de material para la divulgación estratégica del TCU y ejecución de labores de soporte administrativo.
 
 ---
 
-##  Biología Molecular y Salud de Suelos
+## Gestión de Laboratorio, Microbiología y Ensayos Controlados
 
-* **Centro de Investigación en Protección de Cultivos (CIPROC)** | *Asistente de Investigación*
-  * Extracción a gran escala de ADN bacteriano en parcelas agroecológicas para el análisis de salud edáfica.
-  * Muestreos técnicos y manejo fitosanitario orientado al control microbiológico del suelo.
-* **Centro de Investigación en Biología Celular y Molecular (CIBCM)** | *Asistente de Laboratorio*
-  * Ejecución de protocolos de biología molecular y flujos de trabajo analíticos bajo estándares de control de calidad.
-
----
-
-##  Aptitudes Clave de Lectura Rápida
-* **Tecnología y Datos:** Bioinformática (QIIME 2, DADA2), entornos Singularity y diseño científico (BioRender).
+* **Centro de Investigación en Biología Celular y Molecular (CIBCM - UCR)** | *Asistente de Laboratorio e Invernadero*
+  * Manejo técnico de ensayos bajo condiciones controladas, preparación y control de calidad de medios de cultivo, y soporte en protocolos microbiológicos clásicos (refrescamiento y rayado de placas).
+* **Centro de Investigación en Protección de Cultivos (CIPROC - UCR)** | *Asistente de Investigación*
+  * Extracción a gran escala de ADN bacteriano en parcelas agroecológicas para el análisis de salud edáfica, muestreos técnicos y manejo fitosanitario.
 
 ---
+
+## Aptitudes Clave de Lectura Rápida
+* **Calidad y Laboratorio:** Evaluación poscosecha de frutas tropicales[cite: 1], técnicas de microbiología clásica[cite: 1], preparación de medios y control de calidad bajo estándares de investigación[cite: 1].
+* **Tecnología y Datos:** Bioinformática (QIIME 2, DADA2), flujos de análisis estadístico en R, entornos Singularity y diseño científico (BioRender).
+* **Logística:** Licencia de conducir B1 activa y disponibilidad para viajar[cite: 1].
+
+---
+* **Cuento con experiencia en uso de herramientas como R studio y análisis bionformáticos.
+---
+
 *Nota: Para ver el desglose completo de funciones, fechas exactas y supervisores, podés dirigirte a la pestaña [CV](/cv/) en el menú superior.*
