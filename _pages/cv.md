@@ -34,7 +34,7 @@ Ingeniero Agrónomo graduado de la Universidad de Costa Rica. Mi perfil integra 
 
 * **Pasantía de Investigación** | Corporación Bananera Nacional (CORBANA)
   <br>**Periodo:** Agosto 2024 - Noviembre 2024
-  <br>**Labores:** Apoyo directo en programas de mejoramiento genético, monitoreo fitosanitario y evaluación agronómica en musáceas.
+  <br>**Labores:** Apoyo directo en programas de mejoramiento genético.
 
 ---
 
