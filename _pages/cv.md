@@ -27,22 +27,22 @@ Ingeniero Agrónomo graduado de la Universidad de Costa Rica. Mi perfil integra 
 
 * **Asistente de Investigación** | Centro de Investigación en Protección de Cultivos (CIPROC)
   * *Periodo:* Septiembre 2025 - Actualidad
-  * *Labores:* Extracción a gran escala de ADN bacteriano en parcelas agroecológicas y evaluación técnica de salud de suelos.
+  * **Labores:** Extracción a gran escala de ADN bacteriano en parcelas agroecológicas y evaluación técnica de salud de suelos.
 
 * **Asistente de Laboratorio** | Centro de Investigación en Biología Celular y Molecular (CIBCM)
   * *Periodo:* Marzo 2023 - Julio 2024 / Enero 2025 - Julio 2025
-  * *Labores:* Soporte técnico en protocolos de biología molecular y flujos de trabajo analíticos de laboratorio.
+  * **Labores:** Soporte técnico en protocolos de biología molecular y flujos de trabajo analíticos de laboratorio.
 
 * **Pasantía de Investigación** | Corporación Bananera Nacional (CORBANA)
   * *Periodo:* Agosto 2024 - Noviembre 2024
-  * *Labores:* Apoyo directo en programas de mejoramiento genético, monitoreo fitosanitario y evaluación agronómica en musáceas.
+  * **Labores:** Apoyo directo en programas de mejoramiento genético, monitoreo fitosanitario y evaluación agronómica en musáceas.
 
 ---
 
 ## Acción Social y Extensión
 * **Asistente de Proyecto** | Trabajo Comunal Universitario (TCU 775, UCR)
   * *Periodo:* Enero 2025 - Diciembre 2025
-  * *Labores:* Acompañamiento de estudiantes en soporte técnico, vinculación comunitaria y transferencia de conocimiento en el sector agropecuario. Mi enfoque se centró en el análisis de rendimiento del TCU, la divulgación y la gestión de labores administrativas.
+  * **Labores:** Acompañamiento de estudiantes en soporte técnico, vinculación comunitaria y transferencia de conocimiento en el sector agropecuario. Mi enfoque se centró en el análisis de rendimiento del TCU, la divulgación y la gestión de labores administrativas.
 ---
 
 ##  Competencias Técnicas
