@@ -42,14 +42,13 @@ Ingeniero Agrónomo graduado de la Universidad de Costa Rica. Mi perfil integra 
 ## Acción Social y Extensión
 * **Asistente de Proyecto** | Trabajo Comunal Universitario (TCU 775, UCR)
   * *Periodo:* Enero 2025 - Diciembre 2025
-  * *Labores:* Soporte técnico, vinculación comunitaria y transferencia de conocimiento en el sector agropecuario.
-
+  * *Labores:* Acompañamiento de estudiantes en soporte técnico, vinculación comunitaria y transferencia de conocimiento en el sector agropecuario. Mi enfoque se centró en el análisis de rendimiento del TCU, la divulgación y la gestión de labores administrativas.
 ---
 
 ##  Competencias Técnicas
-* **Manejo de Cultivos y Campo:** Logística agrícola, diseño técnico de infraestructura de drenajes y gestión de musáceas.
+* **Manejo de Cultivos y Campo:** Logística agrícola y gestión de musáceas.
 * **Protección de Cultivos:** Diagnóstico fitosanitario, muestreo de suelos y uso de cultivos de cobertura (como *Crotalaria*) para el manejo de nematodos y patógenos.
-* **Bioinformática y Datos:** Análisis de microbiomas mediante pipelines bioinformáticos (QIIME 2, DADA2), entornos Singularity en clústeres de alto rendimiento y herramientas de diseño científico (BioRender).
+* **Bioinformática y Datos:** Análisis de microbiomas mediante pipelines bioinformáticos (QIIME 2, DADA2), entornos Singularity en clústeres de alto rendimiento y herramientas de diseño científico (BioRender y Canva).
 
 ---
 
