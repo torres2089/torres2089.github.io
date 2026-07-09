@@ -1,12 +1,21 @@
 <style>
-  .page__footer, footer, [class*="footer"] {
-    padding-top: 5px !important;
-    padding-bottom: 5px !important;
-    margin-top: 10px !important;
-  }
-  .page__footer-copyright, [class*="copyright"] {
-    margin-top: 0 !important;
+  /* Reduce el margen inferior del contenedor de la página para que no empuje el footer */
+  .page__inner-wrap {
     margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  
+  /* Comprime la franja gris al mínimo absoluto */
+  .page__footer, footer, [class*="footer"] {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    margin-top: 5px !important;
+  }
+  
+  /* Elimina los espacios extra que tienen los textos de las credenciales */
+  .page__footer-follow, .page__footer-copyright {
+    margin-top: 0 !important;
+    margin-bottom: 2px !important;
     padding: 0 !important;
     line-height: 1.2 !important;
   }
