@@ -30,12 +30,12 @@ Resumen ejecutivo de trayectoria técnica enfocada en calidad poscosecha, gesti�
 ---
 
 ## Aptitudes Clave de Lectura Rápida
-* **Calidad y Laboratorio:** Evaluación poscosecha de frutas tropicales, técnicas de microbiología clásica[cite: 1], preparación de medios y control de calidad bajo estándares de investigación.
+* **Calidad y Laboratorio:** Evaluación poscosecha de frutas tropicales, técnicas de microbiología clásica, preparación de medios y control de calidad bajo estándares de investigación.
 * **Tecnología y Datos:** Bioinformática (QIIME 2, DADA2), flujos de análisis estadístico en R, entornos Singularity y diseño científico (BioRender y Canva).
 * **Logística:** Licencia de conducir B1 activa y disponibilidad para viajar.
 
 ---
-* **Cuento con experiencia en uso de herramientas como R studio y análisis bionformáticos**.
+* Cuento con experiencia en uso de herramientas como R studio y análisis bionformáticos.
 ---
 
 *Nota: Para ver el desglose completo de funciones, fechas exactas, podés dirigirte a la pestaña [CV](/cv/) en el menú superior.*
