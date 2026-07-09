@@ -26,7 +26,7 @@ Ingeniero Agrónomo graduado de la Universidad de Costa Rica. Mi perfil integra 
 ## Experiencia Laboral e Investigación
 
 * **Asistente de Investigación** | Centro de Investigación en Protección de Cultivos (CIPROC)
-  * *Periodo:* Septiembre 2025 - Diciembre 2025
+  * *Periodo:* Septiembre 2025 - Actualidad
   * *Labores:* Extracción a gran escala de ADN bacteriano en parcelas agroecológicas y evaluación técnica de salud de suelos.
 
 * **Asistente de Laboratorio** | Centro de Investigación en Biología Celular y Molecular (CIBCM)
