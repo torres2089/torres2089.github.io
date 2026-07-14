@@ -12,4 +12,6 @@ Educación continua, certificaciones profesionales y capacitación complementari
 * **[Capacitación en Introducción a Python](/assets/intropython.pdf)**
 * **[Formación / Curso FAO](/assets/fao.pdf)**
 * **[Certificado Prevención y manejo Fusarium](/assets/banano.pdf)**
+* **[Certificado Producción de bioinsumos microbianos en la explotación agrícola ](/assets/bioinsumos.pdf)**
+* **[Certificado Análisis no destructivo de la calidad: Curso de Tecnología de Poscosecha en Frutas y Hortalizas ](/assets/Tecnologia_poscosecha.pdf)**
 
