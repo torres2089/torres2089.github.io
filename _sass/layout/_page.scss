@@ -400,13 +400,26 @@
   text-transform: uppercase;
 }
 
-footer {
-  padding-top: 0.5em !important;
-  padding-bottom: 0.5em !important;
-  margin-top: 1em !important;
-}
+/* ==========================================================================
+   REDUCIR TAMAÑO DEL FOOTER (PIE DE PÁGINA)
+   ========================================================================== */
 
 .page__footer {
-  padding-top: 0.5em !important;
-  padding-bottom: 0.5em !important;
+  padding-top: 0.8rem !important;
+  padding-bottom: 0.8rem !important;
+  margin-top: 1rem !important;
+
+  // Reducir los márgenes y rellenos internos de los textos y enlaces
+  .page__footer-follow, 
+  .page__footer-copyright {
+    margin-top: 0 !important;
+    margin-bottom: 0.3rem !important;
+    padding: 0 !important;
+    font-size: 0.75rem !important; // Hace la letra un poquito más compacta y sutil
+  }
+
+  // Quitar espacios extra en el último elemento de texto
+  .page__footer-copyright:last-child {
+    margin-bottom: 0 !important;
+  }
 }
